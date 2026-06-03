@@ -92,10 +92,6 @@ aurora-pdf encrypt merged.pdf protected.pdf --user-password open --owner-passwor
 - `benchmarks`: repeatable performance checks.
 - `docs`: architecture, API reference, security, performance, release notes.
 
-## Developer Handoff Docs
-
-- Fresh clone setup and verification: [docs/setup-and-testing-guide.md](docs/setup-and-testing-guide.md)
-- New developer KT guide: [docs/kt-new-developer-guide.md](docs/kt-new-developer-guide.md)
 
 ## Verification
 
